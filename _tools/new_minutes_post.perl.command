@@ -18,16 +18,16 @@ layout: default
 author: $author
 excerpt_separator: <!--more-->
 category:
-  - minutes_representation
-  - minutes_exchange
-  - minutes_implementation
+  - representation
+  - exchange
+  - implementation
 tags:
   - minutes
 ---
 
 <!--   Please edit the title above                                  -->
 <!--   Please edit the author above                                 -->
-<!--   Please edit the category above if not "news"                -->
+<!--   Please remove the unused categories above                    -->
 <!--   Please add tags                                              -->
 <!--   You may replace the "{{ page.title }}" below with your title -->
 <!--   Content above "more" will appear in excerpts                 -->
