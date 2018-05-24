@@ -1,11 +1,19 @@
 ---
+<<<<<<< HEAD
 title: "Minutes CP::Exchange 2018-05-23"
+=======
+title: "Minutes CP2::Exchange 2018-05-23"
+>>>>>>> b1f4b379e9844c9fc50ed28ee27524103c415ab3
 date: 2018-05-23
 layout: default
 author: mbaudis
 excerpt_separator: <!--more-->
 category:
+<<<<<<< HEAD
   - exchange
+=======
+  - minutes_exchange
+>>>>>>> b1f4b379e9844c9fc50ed28ee27524103c415ab3
 tags:
   - minutes
 ---

@@ -1,16 +1,13 @@
 ---
-title:  'Implementation Minutes Archive'
-date: 2018-05-23
-author: mbaudis
+title:  'Exchange Minutes Archive'
+date: 2222-11-11
 layout: default
-permalink: /minutes-implementation.html
+permalink: /minutes-exchange.html
 category:
-  - implementation
-tags:
-  - featured
+  - exchange
 ---
 
-## GA4GH::CP {{ page.title }}
+## GA4GH::CP Exchange Minutes Archive
 
 The (combined) current meeting minutes are published accessible through [here](https://docs.google.com/document/d/1Qfms-6C8z1sFcjbhtcdpeUeAyeFF6vmGjX7sGCV3DEs/edit) for review and comments.
 
@@ -18,7 +15,7 @@ The (combined) current meeting minutes are published accessible through [here](h
 
 {% assign today = site.time | date: '%s' %}
 
-{% for item in site.tags.minutes_implementation %}
+{% for item in site.tags.minutes_exchange %}
   {% assign postStartDate = item.date | date: '%s' %}
   {% assign currentyear = item.date | date: "%Y" %}
   {% unless postStartDate > today %}
@@ -26,13 +23,9 @@ The (combined) current meeting minutes are published accessible through [here](h
 <h2 id="y{{item.date | date: "%Y"}}">{{ currentdate }}</h2>
       {% assign date = currentyear %}
     {% endif %}
-
 <div class="excerpt">
-
 {{ item.excerpt }}
-
-  <p>{{ item.date | date: "%Y-%m-%d" }}: <a href="{{ item.url | relative_url }}">more ...</a></p>
+<p>{{ item.date | date: "%Y-%m-%d" }}: <a href="{{ item.url | relative_url }}">more ...</a></p>
 </div>
-
   {% endunless %}
 {% endfor %}
