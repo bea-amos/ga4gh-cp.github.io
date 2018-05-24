@@ -23,9 +23,13 @@ The (combined) current meeting minutes are published accessible through [here](h
 <h2 id="y{{item.date | date: "%Y"}}">{{ currentdate }}</h2>
       {% assign date = currentyear %}
     {% endif %}
+
 <div class="excerpt">
+
 {{ item.excerpt }}
-<p>{{ item.date | date: "%Y-%m-%d" }}: <a href="{{ item.url | relative_url }}">more ...</a></p>
+
+  <p>{{ item.date | date: "%Y-%m-%d" }}: <a href="{{ item.url | relative_url }}">more ...</a></p>
 </div>
+
   {% endunless %}
 {% endfor %}
