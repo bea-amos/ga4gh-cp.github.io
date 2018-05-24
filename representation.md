@@ -12,13 +12,15 @@ Below are links to posts related to GA4GH::CP "{{ page.title }}". The minutes of
 ---
 
 {% for item in site.categories.representation %}
-  {% assign currentdate = item.date | date: "%Y" %}
-  {% if currentdate != date %}
-<h3 id="y{{item.date | date: "%Y"}}">{{ currentdate }}</h3>
-   {% assign date = currentdate %}
-  {% endif %}
+  {% unless item.date > site.time %}
+    {% assign year_current = item.date | date: "%Y" %}
+    {% if year_current != year_label %}
+<h3 id="y{{ year_label }}">{{ year_label }}</h3>
+      {% assign year_label = year_current %}
+    {% endif %}
 <div class="excerpt">
 {{ item.excerpt }}
 <p>{{ item.date | date: "%Y-%m-%d" }}: <a href="{{ item.url | relative_url }}">more ...</a></p>
 </div>
+  {% endunless %}
 {% endfor %}

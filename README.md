@@ -36,8 +36,8 @@ The workstream has three subgroups, focussing on different aspects of the missio
 
 #### Leads:
 
-* [John Mattison]
-* [Andrea Ramirez]
+* [John Mattison]()
+* [Andrea Ramirez]()
 
 #### Technical Programme Manager
 

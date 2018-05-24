@@ -1,13 +1,16 @@
 ---
-title:  'Exchange Minutes Archive'
-date: 2222-11-11
+title:  'Implementation Minutes Archive'
+date: 2018-05-23
+author: mbaudis
 layout: default
-permalink: /minutes-exchange.html
+permalink: /minutes-implementation.html
 category:
-  - exchange
+  - implementation
+tags:
+  - featured
 ---
 
-## GA4GH::CP Exchange Minutes Archive
+## GA4GH::CP {{ page.title }}
 
 The (combined) current meeting minutes are published accessible through [here](https://docs.google.com/document/d/1Qfms-6C8z1sFcjbhtcdpeUeAyeFF6vmGjX7sGCV3DEs/edit) for review and comments.
 
@@ -23,9 +26,13 @@ The (combined) current meeting minutes are published accessible through [here](h
 <h2 id="y{{item.date | date: "%Y"}}">{{ currentdate }}</h2>
       {% assign date = currentyear %}
     {% endif %}
+
 <div class="excerpt">
+
 {{ item.excerpt }}
-<p>{{ item.date | date: "%Y-%m-%d" }}: <a href="{{ item.url | relative_url }}">more ...</a></p>
+
+  <p>{{ item.date | date: "%Y-%m-%d" }}: <a href="{{ item.url | relative_url }}">more ...</a></p>
 </div>
+
   {% endunless %}
 {% endfor %}

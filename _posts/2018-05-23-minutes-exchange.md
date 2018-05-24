@@ -1,13 +1,11 @@
 ---
-title: "Minutes"
+title: "Minutes CP::Exchange 2018-05-23"
 date: 2018-05-23
 layout: default
 author: mbaudis
 excerpt_separator: <!--more-->
 category:
-  - minutes_representation
-  - minutes_exchange
-  - minutes_implementation
+  - exchange
 tags:
   - minutes
 ---

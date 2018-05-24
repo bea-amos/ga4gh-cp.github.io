@@ -1,13 +1,16 @@
 ---
 title:  'Representation Minutes Archive'
-date: 2222-11-11
+date: 2018-05-23
 layout: default
+author: mbaudis
 permalink: /minutes-representation.html
 category:
   - representation
+tags:
+  - featured
 ---
 
-## GA4GH::CP Representation Minutes Archive
+## GA4GH::CP {{ page.title }}
 
 The (combined) current meeting minutes are published accessible through [here](https://docs.google.com/document/d/1Qfms-6C8z1sFcjbhtcdpeUeAyeFF6vmGjX7sGCV3DEs/edit) for review and comments.
 
