@@ -15,7 +15,7 @@ The (combined) current meeting minutes are published accessible through [here](h
 
 {% assign today = site.time | date: '%s' %}
 
-{% for item in site.tags.exchange_minutes %}
+{% for item in site.tags.minutes_representation %}
   {% assign postStartDate = item.date | date: '%s' %}
   {% assign currentyear = item.date | date: "%Y" %}
   {% unless postStartDate > today %}
