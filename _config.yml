@@ -1,0 +1,29 @@
+title: "GA4GH Clinical & Phenotypic Data Capture & Exchange"
+label: GA4GH::CP
+github_organisation: ga4gh-cp
+future: true
+navigation_categories:
+  representation: "Representation"
+  exchange: "Exchange & Interoperability"
+  implementation: "Implementation & Engagement"
+  news: News
+  howto: Examples & Guides
+navigation_static_links:
+  ga4gh:
+    url: "http://ga4gh.org"
+    label: "GA4GH Main Site"
+  ga4gh-gks:
+    url: "http://ga4gh-gks.github.io"
+    label: "GA4GH::GKS"
+  ga4gh-cp:
+    url: "http://ga4gh-cp.github.io"
+    label: "GA4GH::CP"
+  ga4gh-metadata:
+    url: "http://ga4gh-metadata.github.io"
+    label: "GA4GH::Metadata"
+  ga4gh-lsg:
+    url: "https://github.com/ga4gh/large-scale-genomics-wiki/wiki/"
+    label: "GA4GH Large Scale Genomics"   
+  ga4gh-github:
+    url: "https://github.com/ga4gh/"
+    label: "GA4GH Github Projects"
