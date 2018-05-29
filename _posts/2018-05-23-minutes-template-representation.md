@@ -16,19 +16,16 @@ The (combined) current meeting minutes are published accessible through [here](h
 
 ### Archive
 
-{% assign today = site.time | date: '%s' %}
-
-{% for item in site.tags.minutes_representation %}
-  {% assign postStartDate = item.date | date: '%s' %}
-  {% assign currentyear = item.date | date: "%Y" %}
-  {% unless postStartDate > today %}
-    {% if currentyear != date %}
-<h2 id="y{{item.date | date: "%Y"}}">{{ currentdate }}</h2>
-      {% assign date = currentyear %}
+{% for item in site.categories.representation %}
+  {% if item.tags contains 'minutes' %}
+    {% assign currentyear = item.date | date: "%Y" %}
+    {% if currentyear != currentdate %}
+<h2 id="y{{ currentyear }}">{{ currentyear }}</h2>
+      {% assign currentdate = currentyear %}
     {% endif %}
 <div class="excerpt">
 {{ item.excerpt }}
 <p>{{ item.date | date: "%Y-%m-%d" }}: <a href="{{ item.url | relative_url }}">more ...</a></p>
 </div>
-  {% endunless %}
+  {% endif %}
 {% endfor %}
