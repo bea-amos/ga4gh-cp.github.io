@@ -11,8 +11,8 @@ The current focus of Clin/Pheno Work Stream lies in establishing best practice g
 
 ### Work Stream Leads:
 
-- [Melissa Haendel]()
-- [David Hansen]()
+- [Melissa Haendel](http://www.ohsu.edu/xd/education/library/about/staff-directory/melissa-haendel.cfm)
+- [David Hansen](http://people.csiro.au/H/D/David-Hansen)
 
 The workstream has three subgroups, focussing on different aspects of the mission:
 
@@ -20,25 +20,25 @@ The workstream has three subgroups, focussing on different aspects of the missio
 
 #### Leads:
 
-* [Melanie Courtot]()
-* [Tudor Groza]()
-* [Allison Heath]()
+* [Melanie Courtot](http://purl.org/net/mcourtot)
+* [Tudor Groza](https://rd-connect.eu/person/tudor-groza/)
+* [Allison Heath](https://d3b.center/team-members/allison-heath/)
 
 ### [Data Exchange & Interoperability](https://ga4gh-cp.github.io/exchange.html)
 
 #### Leads:
 
-* [Grant Wood]()
+* [Grant Wood](https://www.linkedin.com/in/grantmwood)
 * [Michael Baudis](http://www.imls.uzh.ch/en/research/baudis.html)
-* [Gil Alterovitz]()
+* [Gil Alterovitz](https://scholar.harvard.edu/gil)
 
 ### [Implementation, Education & Engagement](https://ga4gh-cp.github.io/implementation.html)
 
 #### Leads:
 
-* [John Mattison]()
-* [Andrea Ramirez]()
+* [John Mattison](https://www.linkedin.com/in/johnmattison)
+* [Andrea Ramirez](https://www.clinicalgenome.org/about/people/staff/andrea-ramirez-md/)
 
 #### Technical Programme Manager
 
-- Lena Dolman
+- [Lena Dolman](https://ca.linkedin.com/in/lena-dolman-2b821432)
