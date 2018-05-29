@@ -22,7 +22,7 @@ The workstream has three subgroups, focussing on different aspects of the missio
 
 * [Melanie Courtot](http://purl.org/net/mcourtot)
 * [Tudor Groza](https://rd-connect.eu/person/tudor-groza/)
-* [Allison Heath](https://gdc.cancer.gov/about-gdc/gdc-team/allison-heath-phd)
+* [Allison Heath](https://d3b.center/team-members/allison-heath/)
 
 ### [Data Exchange & Interoperability](https://ga4gh-cp.github.io/exchange.html)
 
