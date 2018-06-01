@@ -7,6 +7,11 @@ category: representation
 
 ## {{ page.title }}
 
+
+[Criteria list for resources evaluation]()
+
+
+
 Below are links to posts related to GA4GH::CP "{{ page.title }}". The minutes of meetings of the subgroup can be found [here](/minutes-representation.html).
 
 ---
