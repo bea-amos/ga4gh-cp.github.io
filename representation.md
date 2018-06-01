@@ -8,7 +8,7 @@ category: representation
 ## {{ page.title }}
 
 
-[Criteria list for resources evaluation]()
+[Criteria list for resources evaluation](/_subgroup1/criteria.md)
 
 
 
