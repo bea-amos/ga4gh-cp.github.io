@@ -84,6 +84,21 @@
 <!--                          / Static Links                                 -->
 <!-- ######################################################################  -->
 
+<!-- ############################    Tags   ###############################  -->
+
+  <div class="navboxleft" style="text-align:center;">
+
+{% assign tags = site.tags | sort %}
+{% for tag in tags %}
+    <div class="site-tag">
+      <a href="/tag/{{ tag | first }}/index.html" style="font-size: {{ tag | last | size | times: 2 | plus: 60 }}%">{{ tag[0] | replace: "--", "::" }}</a>
+    </div>
+{% endfor %}
+<!-- collection tags are not auto generated -->
+  </div>
+
+<!-- ##########################    / Tags   ###############################  -->
+
 <!-- ######################################################################  -->
 <!--                            Github Edit                                  -->
 <!-- ######################################################################  -->
