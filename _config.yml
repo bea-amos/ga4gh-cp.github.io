@@ -8,6 +8,16 @@ navigation_categories:
   implementation: "Implementation & Engagement"
   news: News
   howto: Examples & Guides
+collections:
+  representation:
+    output: true
+    permalink: /:collection/:name
+  exchange:
+    output: true
+    permalink: /:collection/:name
+  implementation:
+    output: true
+    permalink: /:collection/:name
 navigation_static_links:
   ga4gh:
     url: "http://ga4gh.org"
@@ -26,10 +36,10 @@ navigation_static_links:
     label: "GA4GH::Metadata"
   ga4gh-lsg:
     url: "https://github.com/ga4gh/large-scale-genomics-wiki/wiki/"
-    label: "GA4GH Large Scale Genomics"   
+    label: "GA4GH Large Scale Genomics"
   phenopackets:
     url: "https://github.com/phenopackets"
-    label: "Phenopackets PXF"   
+    label: "Phenopackets PXF"
   ga4gh-github:
     url: "https://github.com/ga4gh/"
     label: "GA4GH Github Projects"
