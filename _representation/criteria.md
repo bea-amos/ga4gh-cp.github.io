@@ -1,7 +1,7 @@
 ---
 title:  "Evaluation criteria"
 layout: default
-permalink: /_subgroup1/criteria.html
+permalink: /representation/criteria.html
 category: representation
 ---
 
