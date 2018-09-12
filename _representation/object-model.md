@@ -9,7 +9,12 @@ category: representation
 
 ## {{ page.title }}
 
-<img src="/assets/img/ga4gh-object-model.png" style="float: right" />
+<div style="display: block; float: right; width: 260px;">
+  <img src="/assets/img/ga4gh-object-model.png" />
+  <div style="display: block; width: 260px; text-align: center;">
+A graph showing the basic objects and their relationships. The example attributes represent placeholders for elements defined in the general schema description.
+  </div>
+</div>
 
 The __GA4GH Object Model__ provides guidance about commonly represented and exchanged higher order data objects and their relationships. The model does not only address objects primarily in the domain of "clinical and phenotypic" data, but aligns with concepts used for genomic data representation, in alignment with the [Genomic Knowledge Standards](https://ga4gh-gks.github.io) working group and driver projects.
 
