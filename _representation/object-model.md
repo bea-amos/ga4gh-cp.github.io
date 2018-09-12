@@ -3,6 +3,8 @@ title:  "GA4GH Object Model"
 layout: default
 permalink: /representation/object-model.html
 category: representation
+tags:
+  - schema
 ---
 
 # -- DRAFT --
@@ -11,7 +13,7 @@ category: representation
 
 <div style="display: block; float: right; width: 260px;">
   <img src="/assets/img/ga4gh-object-model.png" />
-  <div style="display: block; width: 260px; text-align: center;">
+  <div style="display: block; width: 260px; text-align: justified; font-size: 0.9em; color: #00c; background-color: #ddd;">
 A graph showing the basic objects and their relationships. The example attributes represent placeholders for elements defined in the general schema description.
   </div>
 </div>
