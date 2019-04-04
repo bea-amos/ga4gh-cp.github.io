@@ -14,6 +14,10 @@ The current focus of Clin/Pheno Work Stream lies in establishing best practice g
 - [Melissa Haendel](https://www.ohsu.edu/people/melissa-haendel/AFE044BDE8046E5D6FBDA51F448BDE2A)
 - [David Hansen](http://people.csiro.au/H/D/David-Hansen)
 
+#### Technical Programme Manager
+
+- [Lindsay Smith](https://ca.linkedin.com/in/lindsaysmithh)
+
 The workstream has three project areas, focussing on different aspects of the mission:
 
 ### [Data Representation & Interoperability](https://ga4gh-cp.github.io/representation.html)
@@ -38,7 +42,3 @@ The workstream has three project areas, focussing on different aspects of the mi
 
 * [John Mattison](https://www.linkedin.com/in/johnmattison)
 * [Andrea Ramirez](https://www.clinicalgenome.org/about/people/staff/andrea-ramirez-md/)
-
-#### Technical Programme Manager
-
-- [Lindsay Smith](https://ca.linkedin.com/in/lindsaysmithh)
