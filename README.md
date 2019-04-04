@@ -11,10 +11,10 @@ The current focus of Clin/Pheno Work Stream lies in establishing best practice g
 
 ### Work Stream Leads:
 
-- [Melissa Haendel](http://www.ohsu.edu/xd/education/library/about/staff-directory/melissa-haendel.cfm)
+- [Melissa Haendel](https://www.ohsu.edu/people/melissa-haendel/AFE044BDE8046E5D6FBDA51F448BDE2A)
 - [David Hansen](http://people.csiro.au/H/D/David-Hansen)
 
-The workstream has three subgroups, focussing on different aspects of the mission:
+The workstream has three project areas, focussing on different aspects of the mission:
 
 ### [Data Representation & Interoperability](https://ga4gh-cp.github.io/representation.html)
 
@@ -41,4 +41,4 @@ The workstream has three subgroups, focussing on different aspects of the missio
 
 #### Technical Programme Manager
 
-- [Lena Dolman](https://ca.linkedin.com/in/lena-dolman-2b821432)
+- [Lindsay Smith](https://ca.linkedin.com/in/lindsaysmithh)
