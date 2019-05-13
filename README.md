@@ -29,3 +29,8 @@ Pedigree data is currently represented in heterogeneous formats that frequently 
 
 ### [Delivering an Environment for Open Terminology Work](https://github.com/ga4gh-cp/terminology)
 The complexity of implementing genomics into healthcare will require accurate data to be captured about the patient’s genomic information to support clinical decision making and clinical and medical research. Tools developed through engagement with EMR vendors and clinical trial management software vendors will encourage and support the use of ontologies to capture clinical data. Ongoing work will also provide ontology mappings and clinically specific value sets for use in the capture of clinical data for genomic medicine.
+
+## Links
+- [Roadmap (In Progress)](https://docs.google.com/document/d/1Xjtlm_G_zHJoHZkEELgNG8nSvxfeJczHaxBQ89ckxF4/edit)
+- [Meeting Minutes 2019-2020](https://docs.google.com/document/d/1gxRaduk2bv6_cCSiDVJomVtfMD2AOFeDVGELsShh21U/edit?usp=sharing)
+- [GA4GH Slack](http://ga4gh.slack.com) - Clin/Pheno Channel: #clin_pheno_full
