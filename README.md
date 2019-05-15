@@ -38,3 +38,12 @@ Call-in Information:
 
 - Join from PC, Mac, Linux, iOS or Android: https://zoom.us/j/4426465151
 - Or by phone: https://zoom.us/zoomconference?u=fB16AZJxeCfhHEXCelNzEbVdhSRlhQV4xzeq7ndXj0E (Meeting ID - 442 646 5151)
+
+## Relevant Links
+- [2019 Roadmap](https://docs.google.com/document/d/1Xjtlm_G_zHJoHZkEELgNG8nSvxfeJczHaxBQ89ckxF4/edit) (In Development)
+- [2019-2020 Meeting Minutes](https://docs.google.com/document/d/1gxRaduk2bv6_cCSiDVJomVtfMD2AOFeDVGELsShh21U/edit?usp=sharing)
+- [Slack](https://ga4gh.slack.com/) - Clin/Pheno channel is #clin_pheno_full
+
+## Recent Meetings
+- GA4GH Connect in Hinxton, UK, April 2019. See [Documentation](https://drive.google.com/open?id=1Nenj5FyjUoxvo6TtHYxuPEknYMbAfd_V).
+- GA4GH 6th Plenary in Basel, Switzerland, October 2018. See [here](https://www.ga4gh.org/event/ga4gh-6th-plenary/) for more information.
