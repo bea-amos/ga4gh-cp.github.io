@@ -35,8 +35,10 @@ We have bi-weekly/fortnightly call on Wednesday at 12pm PST/3pm EST/8pm BST/9pm 
 Please email [Lindsay Smith](mailto:lindsay.smith@ga4gh.org) for meeting invitations.
 
 Call-in Information:
-- Join from PC, Mac, Linux, iOS or Android: https://zoom.us/j/4426465151
-- Or by phone:
+
+Join from PC, Mac, Linux, iOS or Android: https://zoom.us/j/4426465151
+
+Or by phone:
 
 Meeting ID - 442 646 5151
 
