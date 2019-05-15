@@ -37,5 +37,7 @@ Please email [Lindsay Smith](mailto:lindsay.smith@ga4gh.org) for meeting invitat
 Call-in Information:
 - Join from PC, Mac, Linux, iOS or Android: https://zoom.us/j/4426465151
 - Or by phone:
+
 Meeting ID - 442 646 5151
+
 Dial-in Numbers - https://zoom.us/zoomconference?u=fB16AZJxeCfhHEXCelNzEbVdhSRlhQV4xzeq7ndXj0E
