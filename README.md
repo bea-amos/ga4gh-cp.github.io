@@ -28,9 +28,14 @@ While ontologies and terminologies provide the standard data concept definitions
 Pedigree data is currently represented in heterogeneous formats that frequently result in the use of lowest-common-denominator formats (e.g., PED) or custom JSON formats for data transfer. The need for high quality, unambiguous, computable pedigree and family history information is critical for informing genomic analysis as well as using the information to inform risk to family members.
 
 ### [Delivering an Environment for Open Terminology Work](https://github.com/ga4gh-cp/terminology)
-The complexity of implementing genomics into healthcare will require accurate data to be captured about the patient’s genomic information to support clinical decision making and clinical and medical research. Tools developed through engagement with EMR vendors and clinical trial management software vendors will encourage and support the use of ontologies to capture clinical data. Ongoing work will also provide ontology mappings and clinically specific value sets for use in the capture of clinical data for genomic medicine.
+The complexity of implementing genomics into healthcare will require increasingly precise information to be captured about the patient to support clinical decision making and biomedical research. Since knowledge about clinical manifestations, their association with variants and disease, and assays to measure them, change daily, it is necessary to create a standard framework for community-driven terminological content development. Such a framework will allow granular representation and exchange of text definitions, synonyms, provenance, and attribution so as to ensure accurate application of the terms for use in variant interopretation. This common framework will support distributed authoring, community vetting, and delivery to EHRs, registries, databases, and other systems to maximize interoperability and advancement of terminologies for genomic medicine. Ongoing work will also provide standards for ontology mapping and clinically specific value sets for use in the capture of clinical data for genomic medicine.
 
-## Links
-- [2019 Roadmap](https://docs.google.com/document/d/1Xjtlm_G_zHJoHZkEELgNG8nSvxfeJczHaxBQ89ckxF4/edit) (In Progress)
-- [Meeting Minutes 2019-2020](https://docs.google.com/document/d/1gxRaduk2bv6_cCSiDVJomVtfMD2AOFeDVGELsShh21U/edit?usp=sharing)
-- [GA4GH Slack](http://ga4gh.slack.com) - Clin/Pheno Channel: #clin_pheno_full
+## Bi-Weekly/Fortnightly Meeting
+We have bi-weekly/fortnightly call on Wednesday at 12pm PST/3pm EST/8pm BST/9pm CEST/5am (Thursday) AEST, etc.  (19:00 UTC).
+Please email [Lindsay Smith](mailto:lindsay.smith@ga4gh.org) for meeting invitations.
+
+Call-in Information:
+Join from PC, Mac, Linux, iOS or Android: https://zoom.us/j/4426465151
+Or by phone:
+Meeting ID - 442 646 5151
+Dial-in Numbers - https://zoom.us/zoomconference?u=fB16AZJxeCfhHEXCelNzEbVdhSRlhQV4xzeq7ndXj0E
