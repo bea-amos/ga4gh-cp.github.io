@@ -3,7 +3,7 @@ layout: default
 permalink: index.html
 ---
 
-## GA4GH Clinical & Phenotypic Data Capture & Exchange
+# GA4GH Clinical & Phenotypic Data Capture & Exchange
 
 The "Clinical & Phenotypic Data Capture & Exchange" ([GA4GH::CP](http://ga4gh-cp.github.io)) Work Stream is one of the elements of the Global Alliance for Genomics and Health ([GA4GH](http://ga4gh.org)), aimed at developing standard formats for the exchange of genomic data for research and biomedical applications.  All members of this team must follow the [GA4GH Standards of Professional Conduct]( https://www.ga4gh.org/docs/GA4GH-Standards-for-Professional-Conduct_22-Jan-2018.pdf).
 
@@ -35,7 +35,7 @@ We have bi-weekly/fortnightly call on Wednesday at 12pm PST/3pm EST/8pm BST/9pm 
 Please email [Lindsay Smith](mailto:lindsay.smith@ga4gh.org) for meeting invitations.
 
 Call-in Information:
-Join from PC, Mac, Linux, iOS or Android: https://zoom.us/j/4426465151
-Or by phone:
+- Join from PC, Mac, Linux, iOS or Android: https://zoom.us/j/4426465151
+- Or by phone:
 Meeting ID - 442 646 5151
 Dial-in Numbers - https://zoom.us/zoomconference?u=fB16AZJxeCfhHEXCelNzEbVdhSRlhQV4xzeq7ndXj0E
