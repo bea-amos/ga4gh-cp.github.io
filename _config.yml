@@ -28,6 +28,12 @@ navigation_static_links:
   schemablocks:
     url: "http://schemablocks.org"
     label: "SchemaBlocks"
+  monarch:
+    url: "https://monarchinitiative.org"
+    label: "Monarch Initiative"
+  beacon:
+    url: "http://beacon-project.io"
+    label: "Beacon"
   ga4gh-duri:
     url: "http://ga4gh-duri.github.io"
     label: "GA4GH::DURI"
@@ -37,9 +43,6 @@ navigation_static_links:
   ga4gh-gks:
     url: "http://ga4gh-gks.github.io"
     label: "GA4GH::GKS"
-  beacon:
-    url: "http://schemablocks.org"
-    label: "SchemaBlocks"
 navigation_max_items: 4
 tag_title_prefix: ''
 tag_title_suffix: ''
