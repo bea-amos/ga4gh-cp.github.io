@@ -19,7 +19,7 @@ This Work Stream supports the clinical adoption of genomics through establishing
 - [Lindsay Smith](https://ca.linkedin.com/in/lindsaysmithh)
 
 
-This workstream has three project areas, focussing on different aspects of the mission:
+This workstream has three project areas, focusing on different aspects of the mission:
 
 ### [Clinical Data Exchange (Phenopackets)](https://github.com/phenopackets)
 While ontologies and terminologies provide the standard data concept definitions for capturing clinical information, an information model is required to successfully exchange that information between clinical information systems and with related information systems. A standardized structure for phenotypic data would catalyze integration from distributed sources such as authors, journals, data repositories and clinics when appropriately consented, and accelerate clinical utilization of this data to effect more precise health outcomes. The “Phenopackets” standard will provide information models with different levels of complexity to enable high level clinical phenotype information as well as deep clinical phenotype information to be exchanged.
