@@ -21,7 +21,7 @@ This Work Stream supports the clinical adoption of genomics through establishing
 
 This workstream has three project areas, focusing on different aspects of the mission:
 
-### [Clinical Data Exchange (Phenopackets)](https://github.com/phenopackets)
+### [Health Data Exchange (Phenopackets)](https://github.com/phenopackets)
 While ontologies and terminologies provide the standard data concept definitions for capturing clinical information, an information model is required to successfully exchange that information between clinical information systems and with related information systems. A standardized structure for phenotypic data would catalyze integration from distributed sources such as authors, journals, data repositories and clinics when appropriately consented, and accelerate clinical utilization of this data to effect more precise health outcomes. The “Phenopackets” standard will provide information models with different levels of complexity to enable high level clinical phenotype information as well as deep clinical phenotype information to be exchanged.
 
 ### [Family History/Pedigree Representation](https://github.com/ga4gh-cp/family-history)
@@ -44,6 +44,7 @@ Call-in Information:
 - [2019-2020 Meeting Minutes](https://docs.google.com/document/d/1gxRaduk2bv6_cCSiDVJomVtfMD2AOFeDVGELsShh21U/edit?usp=sharing)
 - [Slack](https://ga4gh.slack.com/) - Clin/Pheno channel is #clin_pheno_full
 
-## Recent Meetings
+## Recent F2F Meetings
+- GA4GH 7th Plenary in Boston, USA, October 2019. See [here](https://drive.google.com/drive/u/0/folders/1o434LggP5tTZJA179SDsH1zR45GeeiMu) for notes and presentations.
 - GA4GH Connect in Hinxton, UK, April 2019. See [documentation](https://drive.google.com/open?id=1Nenj5FyjUoxvo6TtHYxuPEknYMbAfd_V).
 - GA4GH 6th Plenary in Basel, Switzerland, October 2018. See [here](https://www.ga4gh.org/event/ga4gh-6th-plenary/) for more information.
