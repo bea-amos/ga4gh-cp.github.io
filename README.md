@@ -24,7 +24,7 @@ This workstream has several project areas, focusing on different aspects of the 
 ### [Phenopackets](https://github.com/phenopackets)
 While ontologies and terminologies provide the standard data concept definitions for capturing clinical information, an information model is required to successfully exchange that information between clinical information systems and with related information systems. A standardized structure for phenotypic data would catalyze integration from distributed sources such as authors, journals, data repositories and clinics when appropriately consented, and accelerate clinical utilization of this data to effect more precise health outcomes. The “Phenopackets” standard will provide information models with different levels of complexity to enable high level clinical phenotype information as well as deep clinical phenotype information to be exchanged.
 
-### [Phenopacket on FHIR Implementation Guide](https://github.com/phenopackets/phenopacket-schema-fhir-implementation-guide)
+### [Phenopackets on FHIR Implementation Guide](https://github.com/phenopackets/phenopacket-schema-fhir-implementation-guide)
 The Phenopackets Schema FHIR Implementation Guide is an HL7 FHIR Implementation guide based on the approved Phenopackets standard. It will support the standardized exchange of phenotypic information from one health health information system to another through the FHIR API.
 
 ### [Family History/Pedigree Representation](https://github.com/ga4gh-cp/family-history)
@@ -34,9 +34,9 @@ Pedigree data is currently represented in heterogeneous formats that frequently 
 A standardized way of capturing and representing treatment regimes both in response to a diagnosis as well as in response to changes in molecular characteristics of a tumor. This work has the potential to be integrated with approved deliverables, such as Phenopackets, and with variant annotation and representation work in the Genomic Knowledge Standards Work Stream.
 
 ## Work Stream Meetings
-Full Work Stream Monthly Calls: End-of-the-month on Thursdays at 12pm PST/3pm EST/8pm BST/9pm CEST/5am (Friday) AEST, etc.  (19:00 UTC).
-Pedigree Technical Subgroup Calls: Bi-weekly/fortnightly Thursdays at 12pm PST/3pm EST/8pm BST/9pm CEST/5am (Friday) AEST, etc.  (19:00 UTC) - this falls on opposite weeks of the full Work Stream call.
-Phenopackets Technical Subgroup Calls: Bi-weekly/fortnightly Thursdays at 1pm PDT/4pm EDT/9pm GMT/10pm CET/8am (next day) AEDT, etc. (20:00 UTC).
+- Full Work Stream Monthly Calls: End-of-the-month on Thursdays at 12pm PST/3pm EST/8pm BST/9pm CEST/5am (Friday) AEST, etc.  (19:00 UTC).
+- Pedigree Technical Subgroup Calls: Bi-weekly/fortnightly Thursdays at 12pm PST/3pm EST/8pm BST/9pm CEST/5am (Friday) AEST, etc.  (19:00 UTC) - this falls on opposite weeks of the full Work Stream call.
+- Phenopackets Technical Subgroup Calls: Bi-weekly/fortnightly Thursdays at 1pm PDT/4pm EDT/9pm GMT/10pm CET/8am (next day) AEDT, etc. (20:00 UTC).
 
 Please email [Lindsay Smith](mailto:lindsay.smith@ga4gh.org) for meeting invitations.
 
