@@ -40,11 +40,6 @@ A standardized way of capturing and representing treatment regimes both in respo
 
 Please email [Lindsay Smith](mailto:lindsay.smith@ga4gh.org) for meeting invitations.
 
-Call-in Information:
-
-- Join from PC, Mac, Linux, iOS or Android: https://zoom.us/j/4426465151
-- Or by phone: https://zoom.us/zoomconference?u=fB16AZJxeCfhHEXCelNzEbVdhSRlhQV4xzeq7ndXj0E (Meeting ID - 442 646 5151)
-
 ## Relevant Links
 - [2020 Roadmap](https://docs.google.com/document/d/1dO2uRrcHavXcN0NOCZ3hcNfHRxVb2nT9u_9xD1ZWWIc/edit?usp=sharing) (In Development)
 - [2019 Roadmap](https://docs.google.com/document/d/1Xjtlm_G_zHJoHZkEELgNG8nSvxfeJczHaxBQ89ckxF4/edit) (Old)
