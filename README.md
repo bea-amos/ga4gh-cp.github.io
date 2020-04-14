@@ -47,6 +47,7 @@ Please email [Lindsay Smith](mailto:lindsay.smith@ga4gh.org) for meeting invitat
 - [Slack](https://ga4gh.slack.com/) - Clin/Pheno channel is #clin_pheno_full
 
 ## Recent F2F Meetings
+- GA4GH Virtual Connect, March 2020. See [here](https://docs.google.com/document/d/1rGU8Xt6aF1sL8ckIwjviSeXaGT6uu6sdo0_0e4d_qfY/edit?usp=sharing) for notes and presentations.
 - GA4GH 7th Plenary in Boston, USA, October 2019. See [here](https://drive.google.com/drive/u/0/folders/1o434LggP5tTZJA179SDsH1zR45GeeiMu) for notes and presentations.
 - GA4GH Connect in Hinxton, UK, April 2019. See [documentation](https://drive.google.com/open?id=1Nenj5FyjUoxvo6TtHYxuPEknYMbAfd_V).
 - GA4GH 6th Plenary in Basel, Switzerland, October 2018. See [here](https://www.ga4gh.org/event/ga4gh-6th-plenary/) for more information.
