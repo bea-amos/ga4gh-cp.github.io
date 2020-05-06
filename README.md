@@ -37,8 +37,8 @@ A standardized way of capturing and representing treatment regimes both in respo
 - Full Work Stream Monthly Calls: End-of-the-month on Thursdays at 12pm PST/3pm EST/8pm BST/9pm CEST/5am (Friday) AEST, etc.  (19:00 UTC).
 - Pedigree Technical Subgroup Calls: Bi-weekly/fortnightly Thursdays at 12pm PST/3pm EST/8pm BST/9pm CEST/5am (Friday) AEST, etc.  (19:00 UTC).
 - Phenopackets Technical Subgroup Calls: Bi-weekly/fortnightly Thursdays, rotating times. Opposite weeks of the Pedigree calls.
-    -Week A: 6am PT/ 9am ET/ 2pm BST/ 10pm JST/ 11pm AEST
-    -Week B: 2pm PT/ 5pm ET/ 10pm BST/ 6am JST/ 7am (Fri) AEST
+  - Week A: 6am PT/ 9am ET/ 2pm BST/ 10pm JST/ 11pm AEST
+  - Week B: 2pm PT/ 5pm ET/ 10pm BST/ 6am JST/ 7am (Fri) AEST
 
 
 Please email [Lindsay Smith](mailto:lindsay.smith@ga4gh.org) for meeting invitations.
