@@ -14,7 +14,7 @@ This Work Stream supports the clinical adoption of genomics through establishing
 - [Melissa Haendel](https://www.ohsu.edu/people/melissa-haendel/AFE044BDE8046E5D6FBDA51F448BDE2A)
 - [David Hansen](http://people.csiro.au/H/D/David-Hansen)
 
-#### Technical Programme Manager
+#### Work Stream Manager:
 
 - [Lindsay Smith](https://ca.linkedin.com/in/lindsaysmithh)
 
@@ -28,10 +28,7 @@ While ontologies and terminologies provide the standard data concept definitions
 The Phenopackets Schema FHIR Implementation Guide is an HL7 FHIR Implementation guide based on the approved Phenopackets standard. It will support the standardized exchange of phenotypic information from one health health information system to another through the FHIR API.
 
 ### [Family History/Pedigree Representation](https://github.com/ga4gh-cp/family-history)
-Pedigree data is currently represented in heterogeneous formats that frequently result in the use of lowest-common-denominator formats (e.g., PED) or custom JSON formats for data transfer. The need for high quality, unambiguous, computable pedigree and family history information is critical for informing genomic analysis as well as using the information to inform risk to family members. Standardizing the way systems represent family structure will allow patients to share this information more easily between healthcare systems and help software tools to use this information to improve genome analysis and diagnosis.
-
-### Future Work: Representing Treatment Regimes
-A standardized way of capturing and representing treatment regimes both in response to a diagnosis as well as in response to changes in molecular characteristics of a tumor. This work has the potential to be integrated with approved deliverables, such as Phenopackets, and with variant annotation and representation work in the Genomic Knowledge Standards Work Stream.
+Pedigree data is currently represented in heterogeneous formats that frequently result in the use of lowest-common-denominator formats (e.g., PED) or custom JSON formats for data transfer. The need for high quality, unambiguous, computable pedigree and family history information is critical for informing genomic analysis as well as using the information to inform risk to family members. Standardizing the way systems represent family structure will allow patients to share this information more easily between healthcare systems and help software tools to use this information to improve genome analysis and diagnosis. 
 
 ## Work Stream Meetings
 - Full Work Stream Monthly Calls: End-of-the-month on Thursdays at 12pm PST/3pm EST/8pm BST/9pm CEST/5am (Friday) AEST, etc.  (19:00 UTC).
