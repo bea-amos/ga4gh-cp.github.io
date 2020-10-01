@@ -31,7 +31,7 @@ The Phenopackets Schema FHIR Implementation Guide is an HL7 FHIR Implementation 
 Pedigree data is currently represented in heterogeneous formats that frequently result in the use of lowest-common-denominator formats (e.g., PED) or custom JSON formats for data transfer. The need for high quality, unambiguous, computable pedigree and family history information is critical for informing genomic analysis as well as using the information to inform risk to family members. Standardizing the way systems represent family structure will allow patients to share this information more easily between healthcare systems and help software tools to use this information to improve genome analysis and diagnosis. 
 
 ## Work Stream Meetings
-- Full Work Stream Monthly Calls: End-of-the-month on Thursdays at 12pm PST/3pm EST/8pm BST/9pm CEST/5am (Friday) AEST, etc.  (19:00 UTC).
+- Full Work Stream Monthly Calls: Monthly on Thursdays at 12pm PST/3pm EST/8pm BST/9pm CEST/5am (Friday) AEST, etc.  (19:00 UTC).
 - Pedigree Technical Subgroup Calls: Bi-weekly/fortnightly Thursdays at 12pm PST/3pm EST/8pm BST/9pm CEST/5am (Friday) AEST, etc.  (19:00 UTC).
 - Phenopackets Technical Subgroup Calls: Bi-weekly/fortnightly Thursdays, rotating times. Opposite weeks of the Pedigree calls.
   - Week A: 6am PT/ 9am ET/ 2pm BST/ 10pm JST/ 11pm AEST
