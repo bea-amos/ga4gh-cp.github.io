@@ -31,11 +31,11 @@ The Phenopackets Schema FHIR Implementation Guide is an HL7 FHIR Implementation 
 Pedigree data is currently represented in heterogeneous formats that frequently result in the use of lowest-common-denominator formats (e.g., PED) or custom JSON formats for data transfer. The need for high quality, unambiguous, computable pedigree and family history information is critical for informing genomic analysis as well as using the information to inform risk to family members. Standardizing the way systems represent family structure will allow patients to share this information more easily between healthcare systems and help software tools to use this information to improve genome analysis and diagnosis. 
 
 ## Work Stream Meetings
-- Full Work Stream Monthly Calls: Monthly on Thursdays at 12pm PST/3pm EST/8pm BST/9pm CEST/5am (Friday) AEST, etc.  (19:00 UTC).
-- Pedigree Technical Subgroup Calls: Bi-weekly/fortnightly Thursdays at 12pm PST/3pm EST/8pm BST/9pm CEST/5am (Friday) AEST, etc.  (19:00 UTC).
+- Full Work Stream Monthly Calls: Monthly on Thursdays at 12pm PST/3pm EST/8pm BST/9pm CEST/6am (Friday) AEDT, etc.  (19:00 UTC).
+- Pedigree Technical Subgroup Calls: Bi-weekly/fortnightly Thursdays at 12pm PST/3pm EST/8pm BST/9pm CEST/6am (Friday) AEDT, etc.  (19:00 UTC).
 - Phenopackets Technical Subgroup Calls: Bi-weekly/fortnightly Thursdays, rotating times. Opposite weeks of the Pedigree calls.
-  - Week A: 6am PT/ 9am ET/ 2pm BST/ 10pm JST/ 11pm AEST
-  - Week B: 2pm PT/ 5pm ET/ 10pm BST/ 6am JST/ 7am (Fri) AEST
+  - Week A: 6am PT/ 9am ET/ 2pm BST/ 10pm JST/ 12am (Fri) AEDT
+  - Week B: 2pm PT/ 5pm ET/ 10pm BST/ 6am JST/ 8am (Fri) AEDT
 
 
 Please email [Lindsay Smith](mailto:lindsay.smith@ga4gh.org) for meeting invitations.
@@ -47,6 +47,7 @@ Please email [Lindsay Smith](mailto:lindsay.smith@ga4gh.org) for meeting invitat
 - [Slack](https://ga4gh.slack.com/) - Clin/Pheno channel is #clin_pheno_full
 
 ## Recent F2F Meetings
+- GA4GH Virtual 8th Plenary, September 2020. See [here](https://docs.google.com/document/d/1tNYQOSrNLYPDWU8Njui4zadCh5URtsHOfe-ybVtmEjY/edit?usp=sharing) for Clin/Pheno working meeting notes and agendas, and [here](https://broadinstitute.swoogo.com/ga4gh-8th-plenary/meeting-materials) for Plenary session meeting materials
 - GA4GH Virtual Connect, March 2020. See [here](https://docs.google.com/document/d/1rGU8Xt6aF1sL8ckIwjviSeXaGT6uu6sdo0_0e4d_qfY/edit?usp=sharing) for notes and presentations.
 - GA4GH 7th Plenary in Boston, USA, October 2019. See [here](https://drive.google.com/drive/u/0/folders/1o434LggP5tTZJA179SDsH1zR45GeeiMu) for notes and presentations.
 - GA4GH Connect in Hinxton, UK, April 2019. See [documentation](https://drive.google.com/open?id=1Nenj5FyjUoxvo6TtHYxuPEknYMbAfd_V).
