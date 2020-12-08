@@ -23,12 +23,21 @@ This workstream has several project areas, focusing on different aspects of the 
 
 ### [Phenopackets](https://github.com/phenopackets)
 While ontologies and terminologies provide the standard data concept definitions for capturing clinical information, an information model is required to successfully exchange that information between clinical information systems and with related information systems. A standardized structure for phenotypic data would catalyze integration from distributed sources such as authors, journals, data repositories and clinics when appropriately consented, and accelerate clinical utilization of this data to effect more precise health outcomes. The “Phenopackets” standard will provide information models with different levels of complexity to enable high level clinical phenotype information as well as deep clinical phenotype information to be exchanged.
+- [Github Space](https://github.com/phenopackets) + [Submit Comments](https://github.com/phenopackets/phenopacket-schema/issues)
+- [Documentation](https://phenopacket-schema.readthedocs.io/en/latest/index.html)
+- [Phenopackets Subgroup Minutes](https://docs.google.com/document/d/1BsNt_hegpmDcEK4RliDC3EJc9B19jdJyAj6rhrgaluo/edit?usp=sharing)
+- [Cancer Task Team Minutes](https://docs.google.com/document/d/1-j60KM54XB59wSn6Uok2iDk2At9Grj2_o9zu2z9A2zA/edit?usp=sharing)
 
 ### [Phenopackets on FHIR Implementation Guide](https://github.com/phenopackets/phenopacket-schema-fhir-implementation-guide)
 The Phenopackets Schema FHIR Implementation Guide is an HL7 FHIR Implementation guide based on the approved Phenopackets standard. It will support the standardized exchange of phenotypic information from one health health information system to another through the FHIR API.
+- [Domain Analysis Github](https://github.com/phenopackets/domain-analysis) + [Readthedocs](https://phenopackets-analysis.readthedocs.io/en/latest/)
+- [Core Implementation Guide Github](https://github.com/phenopackets/core-ig)
+- [Phenopackets IG First Draft](https://aehrc.github.io/fhir-phenopackets-ig/s) (1:1 mapping)
 
 ### [Family History/Pedigree Representation](https://github.com/ga4gh-cp/family-history)
 Pedigree data is currently represented in heterogeneous formats that frequently result in the use of lowest-common-denominator formats (e.g., PED) or custom JSON formats for data transfer. The need for high quality, unambiguous, computable pedigree and family history information is critical for informing genomic analysis as well as using the information to inform risk to family members. Standardizing the way systems represent family structure will allow patients to share this information more easily between healthcare systems and help software tools to use this information to improve genome analysis and diagnosis. 
+- [Draft model v0.9](https://docs.google.com/spreadsheets/d/1iO8FR9XhGnqElbOqqvPfdw9Fb4H779Q3jRrVi37feF0/edit#gid=0)
+- [Draft minimal dataset](https://docs.google.com/document/d/1UAtSLBEQ_7ePRLvDPRpoFpiXnl6VQEJXL2eQByEmfGY/edit)
 
 ## Work Stream Meetings
 - Full Work Stream Monthly Calls: Monthly on Thursdays at 12pm PST/3pm EST/8pm BST/9pm CEST/6am (Friday) AEDT, etc.  (19:00 UTC).
