@@ -52,7 +52,8 @@ Please email [Lindsay Smith](mailto:lindsay.smith@ga4gh.org) for meeting invitat
 ## Relevant Links
 - [2020 Roadmap](https://docs.google.com/document/d/1dO2uRrcHavXcN0NOCZ3hcNfHRxVb2nT9u_9xD1ZWWIc/edit?usp=sharing) (In Development)
 - [2019 Roadmap](https://docs.google.com/document/d/1Xjtlm_G_zHJoHZkEELgNG8nSvxfeJczHaxBQ89ckxF4/edit) (Old)
-- [2019-2020 Meeting Minutes](https://docs.google.com/document/d/1gxRaduk2bv6_cCSiDVJomVtfMD2AOFeDVGELsShh21U/edit?usp=sharing)
+- [2021-2022 Meeting Minutes](https://docs.google.com/document/d/1gxRaduk2bv6_cCSiDVJomVtfMD2AOFeDVGELsShh21U/edit?usp=sharing)
+- [2019-2020 Meeting Minutes](https://docs.google.com/document/d/12gw2BBIPVaWxUNQx2qiVVIt7W0zVOHON_2Ts9yc9fWY/edit?usp=sharing)
 - [Slack](https://ga4gh.slack.com/) - Clin/Pheno channel is #clin_pheno_full
 
 ## Recent F2F Meetings
