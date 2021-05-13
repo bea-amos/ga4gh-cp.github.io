@@ -34,11 +34,11 @@ The Phenopackets Schema FHIR Implementation Guide is an HL7 FHIR Implementation 
 - [Core Implementation Guide Github](https://github.com/phenopackets/core-ig)
 - [Phenopackets IG First Draft](https://aehrc.github.io/fhir-phenopackets-ig/s) (1:1 mapping)
 
-### [Family History/Pedigree Representation](https://github.com/ga4gh-cp/family-history)
+### [Family History/Pedigree Representation](https://github.com/GA4GH-Pedigree-Standard)
 Pedigree data is currently represented in heterogeneous formats that frequently result in the use of lowest-common-denominator formats (e.g., PED) or custom JSON formats for data transfer. The need for high quality, unambiguous, computable pedigree and family history information is critical for informing genomic analysis as well as using the information to inform risk to family members. Standardizing the way systems represent family structure will allow patients to share this information more easily between healthcare systems and help software tools to use this information to improve genome analysis and diagnosis. 
-- [Draft conceptual model](https://github.com/ga4gh-cp/pedigree/pull/6/files?short_path=8bff33e#diff-8bff33ecadb937a840bab8232dfc4bca0824e0216472f3abb702fadabbcd37e0)
+- [Draft conceptual model](https://github.com/GA4GH-Pedigree-Standard/pedigree/blob/master/model.md)
 - [Draft minimal dataset](https://docs.google.com/document/d/1UAtSLBEQ_7ePRLvDPRpoFpiXnl6VQEJXL2eQByEmfGY/edit)
-- [Draft FHIR IG](https://github.com/ga4gh-cp/pedigree-fhir-ig)
+- [Draft FHIR IG](https://github.com/GA4GH-Pedigree-Standard/pedigree-fhir-ig
 
 ## Work Stream Meetings
 - Full Work Stream Monthly Calls: Every other month (bi-monthly) on Wednesdays at 12pm PST/3pm EST/8pm BST/9pm CEST/6am (Friday) AEDT, etc.  (19:00 UTC).
