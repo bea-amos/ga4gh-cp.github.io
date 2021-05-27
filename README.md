@@ -24,7 +24,7 @@ This workstream has several project areas, focusing on different aspects of the 
 ### [Phenopackets](https://github.com/phenopackets)
 While ontologies and terminologies provide the standard data concept definitions for capturing clinical information, an information model is required to successfully exchange that information between clinical information systems and with related information systems. A standardized structure for phenotypic data would catalyze integration from distributed sources such as authors, journals, data repositories and clinics when appropriately consented, and accelerate clinical utilization of this data to effect more precise health outcomes. The “Phenopackets” standard will provide information models with different levels of complexity to enable high level clinical phenotype information as well as deep clinical phenotype information to be exchanged.
 - [Github Space](https://github.com/phenopackets) + [Submit Comments](https://github.com/phenopackets/phenopacket-schema/issues)
-- [Documentation](https://phenopacket-schema.readthedocs.io/en/latest/index.html)
+- [Documentation](https://phenopacket-schema.readthedocs.io/en/v2/index.html)
 - [Phenopackets Subgroup Minutes](https://docs.google.com/document/d/1BsNt_hegpmDcEK4RliDC3EJc9B19jdJyAj6rhrgaluo/edit?usp=sharing)
 - [Cancer Task Team Minutes](https://docs.google.com/document/d/1-j60KM54XB59wSn6Uok2iDk2At9Grj2_o9zu2z9A2zA/edit?usp=sharing)
 
@@ -36,16 +36,18 @@ The Phenopackets Schema FHIR Implementation Guide is an HL7 FHIR Implementation 
 
 ### [Family History/Pedigree Representation](https://github.com/GA4GH-Pedigree-Standard)
 Pedigree data is currently represented in heterogeneous formats that frequently result in the use of lowest-common-denominator formats (e.g., PED) or custom JSON formats for data transfer. The need for high quality, unambiguous, computable pedigree and family history information is critical for informing genomic analysis as well as using the information to inform risk to family members. Standardizing the way systems represent family structure will allow patients to share this information more easily between healthcare systems and help software tools to use this information to improve genome analysis and diagnosis. 
+- [Use Case Collection](https://docs.google.com/document/d/1i__95wmm3EpVytRD2gngFAXPhUajK2knWOtuHT9r8W8/edit#)
 - [Draft conceptual model](https://github.com/GA4GH-Pedigree-Standard/pedigree/blob/master/model.md)
 - [Draft minimal dataset](https://docs.google.com/document/d/1UAtSLBEQ_7ePRLvDPRpoFpiXnl6VQEJXL2eQByEmfGY/edit)
 - [Draft FHIR IG](https://github.com/GA4GH-Pedigree-Standard/pedigree-fhir-ig)
+- [Meeting Minutes](https://docs.google.com/document/d/12gw2BBIPVaWxUNQx2qiVVIt7W0zVOHON_2Ts9yc9fWY/edit?usp=sharing)
 
 ## Work Stream Meetings
-- Full Work Stream Monthly Calls: Every other month (bi-monthly) on Wednesdays at 12pm PST/3pm EST/8pm BST/9pm CEST/6am (Friday) AEDT, etc.  (19:00 UTC).
-- Pedigree Technical Subgroup Calls: Bi-weekly/fortnightly Thursdays at 12pm PST/3pm EST/8pm BST/9pm CEST/6am (Friday) AEDT, etc.  (19:00 UTC).
+- Full Work Stream Monthly Calls: Every other month (bi-monthly) on Wednesdays at 12pm PST/3pm EST/8pm BST/9pm CEST/5am (Friday) AEDT, etc.  (19:00 UTC).
+- Pedigree Technical Subgroup Calls: Bi-weekly/fortnightly Thursdays at 12pm PST/3pm EST/8pm BST/9pm CEST/5am (Friday) AEDT, etc.  (19:00 UTC).
 - Phenopackets Technical Subgroup Calls: Bi-weekly/fortnightly Thursdays, rotating times. Opposite weeks of the Pedigree calls.
-  - Week A: 6am PT/ 9am ET/ 2pm BST/ 10pm JST/ 12am (Fri) AEDT
-  - Week B: 2pm PT/ 5pm ET/ 10pm BST/ 6am JST/ 8am (Fri) AEDT
+  - Week A: 6am PT/ 9am ET/ 2pm BST/ 10pm JST/ 11pm AEDT
+  - Week B: 2pm PT/ 5pm ET/ 10pm BST/ 6am JST/ 7am (Fri) AEDT
 
 
 Please email [Lindsay Smith](mailto:lindsay.smith@ga4gh.org) for meeting invitations.
