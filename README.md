@@ -42,12 +42,16 @@ Pedigree data is currently represented in heterogeneous formats that frequently 
 - [Draft FHIR IG](https://github.com/GA4GH-Pedigree-Standard/pedigree-fhir-ig)
 - [Meeting Minutes](https://docs.google.com/document/d/12gw2BBIPVaWxUNQx2qiVVIt7W0zVOHON_2Ts9yc9fWY/edit?usp=sharing)
 
+### *New* Cohort Representation
+Exploring standardization around computable cohort representation.
+
+
 ## Work Stream Meetings
 - Full Work Stream Monthly Calls: Every other month (bi-monthly) on Wednesdays at 12pm PST/3pm EST/8pm BST/9pm CEST/5am (Friday) AEDT, etc.  (19:00 UTC).
 - Pedigree Technical Subgroup Calls: Bi-weekly/fortnightly Thursdays at 12pm PST/3pm EST/8pm BST/9pm CEST/5am (Friday) AEDT, etc.  (19:00 UTC).
-- Phenopackets Technical Subgroup Calls: Bi-weekly/fortnightly Thursdays, rotating times. Opposite weeks of the Pedigree calls.
+- Cohort Representation Subgroup Calls: Bi-weekly/fortnightly Tuesdays, rotating times. Opposite weeks of the Pedigree calls.
   - Week A: 6am PT/ 9am ET/ 2pm BST/ 10pm JST/ 11pm AEDT
-  - Week B: 2pm PT/ 5pm ET/ 10pm BST/ 6am JST/ 7am (Fri) AEDT
+  - Week B: 1pm PT/ 4pm ET/ 9pm BST/ 5am (Wed) JST/ 6am (Wed) AEST 
 
 
 Please email [Lindsay Smith](mailto:lindsay.smith@ga4gh.org) for meeting invitations.
