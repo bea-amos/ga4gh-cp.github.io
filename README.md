@@ -43,7 +43,7 @@ Pedigree data is currently represented in heterogeneous formats that frequently 
 - [Meeting Minutes](https://docs.google.com/document/d/12gw2BBIPVaWxUNQx2qiVVIt7W0zVOHON_2Ts9yc9fWY/edit?usp=sharing)
 
 ### *New* Cohort Representation
-Exploring standardization around computable cohort representation.
+Exploring standardization around computable cohort representation. We are currently defining the scope of this project.
 
 
 ## Work Stream Meetings
