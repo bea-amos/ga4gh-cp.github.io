@@ -63,6 +63,7 @@ Please email [Lindsay Smith](mailto:lindsay.smith@ga4gh.org) for meeting invitat
 - [Slack](https://ga4gh.slack.com/) - Clin/Pheno channel is #clin_pheno_full
 
 ## Recent F2F Meetings
+- GA4GH Virtual Connect, October 2021. See [here](https://docs.google.com/document/d/1tJg8vC24ypEV1z81mgQF9uG8L2CXcAEkr6BgNawPKxU/edit?usp=sharing) for the meeting report.
 - GA4GH Virtual Connect, March 2021. See [here](https://github.com/ga4gh-cp/pedigree/pull/6/files?short_path=8bff33e#diff-8bff33ecadb937a840bab8232dfc4bca0824e0216472f3abb702fadabbcd37e0) for the meeting report.
 - GA4GH Virtual 8th Plenary, September 2020. See [here](https://docs.google.com/document/d/1tNYQOSrNLYPDWU8Njui4zadCh5URtsHOfe-ybVtmEjY/edit?usp=sharing) for Clin/Pheno working meeting notes and agendas, and [here](https://broadinstitute.swoogo.com/ga4gh-8th-plenary/meeting-materials) for Plenary session meeting materials
 - GA4GH Virtual Connect, March 2020. See [here](https://docs.google.com/document/d/1rGU8Xt6aF1sL8ckIwjviSeXaGT6uu6sdo0_0e4d_qfY/edit?usp=sharing) for notes and presentations.
