@@ -43,7 +43,8 @@ Pedigree data is currently represented in heterogeneous formats that frequently 
 - [Meeting Minutes](https://docs.google.com/document/d/12gw2BBIPVaWxUNQx2qiVVIt7W0zVOHON_2Ts9yc9fWY/edit?usp=sharing)
 
 ### *New* Computable Cohort Representation
-Exploring standardization around computable cohort representation. Two teams have been created: 1) MIACC (Minimum Information About Computable Cohort), aimed at describing sets of attributes required to describe a cohort consistently (eg. age, biological sex), and 2) PHENO, aimed at looking at existing phenotypic standards, and combining phenotypic info into cohort representation (e.g. OMOP FIHR, i2b2 etc.)
+Exploring standardization around computable cohort representation. Two teams have been created: 1) MIACC (Minimum Information About Computable Cohort), aimed at describing sets of attributes required to describe a cohort consistently (eg. age, biological sex), and 2) PHENO, aimed at looking at existing phenotypic standards, and combining phenotypic info into cohort representation (e.g. OMOP FIHR, i2b2 etc.). This Subgroup is still in the landscape review/preliminary development phase, as a deliverable has not yet been formally proposed.
+- [Meeting Minutes](https://docs.google.com/document/d/188TCXf1Gsuaw4nnfkNlYiqLZM4jzO1iOmK6AORhpvCw/edit?usp=sharing)
 - [Summary from GA4GH Oct Connect 2021](https://docs.google.com/document/d/15Shtbo_6VNwr-Oo8ruRoeju12SOi79EhpLlzk4fu0jk/edit?usp=sharing)
 
 
