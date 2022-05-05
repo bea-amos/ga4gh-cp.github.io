@@ -11,7 +11,7 @@ This Work Stream supports the clinical adoption of genomics through establishing
 
 ### Work Stream Leads:
 
-- [Melissa Haendel](https://www.ohsu.edu/people/melissa-haendel/AFE044BDE8046E5D6FBDA51F448BDE2A)
+- [Melanie Courtot](https://mcourtot.github.io/)
 - [David Hansen](http://people.csiro.au/H/D/David-Hansen)
 
 #### Work Stream Manager:
