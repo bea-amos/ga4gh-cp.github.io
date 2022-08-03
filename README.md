@@ -36,23 +36,28 @@ The Phenopackets Schema FHIR Implementation Guide is an HL7 FHIR Implementation 
 
 ### [Family History/Pedigree Representation](https://github.com/GA4GH-Pedigree-Standard)
 Pedigree data is currently represented in heterogeneous formats that frequently result in the use of lowest-common-denominator formats (e.g., PED) or custom JSON formats for data transfer. The need for high quality, unambiguous, computable pedigree and family history information is critical for informing genomic analysis as well as using the information to inform risk to family members. Standardizing the way systems represent family structure will allow patients to share this information more easily between healthcare systems and help software tools to use this information to improve genome analysis and diagnosis. 
-- [Use Case Collection](https://docs.google.com/document/d/1i__95wmm3EpVytRD2gngFAXPhUajK2knWOtuHT9r8W8/edit#)
-- [Draft conceptual model](https://github.com/GA4GH-Pedigree-Standard/pedigree/blob/master/model.md)
-- [Draft minimal dataset](https://docs.google.com/document/d/1UAtSLBEQ_7ePRLvDPRpoFpiXnl6VQEJXL2eQByEmfGY/edit)
+- [Documentation](https://pedigree.readthedocs.io/en/latest/) (describes all of the links below)
+- [Use case collection](https://docs.google.com/document/d/1i__95wmm3EpVytRD2gngFAXPhUajK2knWOtuHT9r8W8/edit#)
+- [Conceptual model](https://github.com/GA4GH-Pedigree-Standard/pedigree/blob/master/model.md)
+- [Common dataset](https://docs.google.com/document/d/1GQRd5jeZeB5qhHclLZxDe6kPD173bXWGYlTsmCbTeuI/edit?usp=sharing)
 - [Draft FHIR IG](https://github.com/GA4GH-Pedigree-Standard/pedigree-fhir-ig)
+- [KIN Ontology](https://github.com/GA4GH-Pedigree-Standard/family_history_terminology)
+- [Pedigree Tools](https://github.com/GA4GH-Pedigree-Standard/pedigree-tools)
+- [Pedigree Validator](https://github.com/GA4GH-Pedigree-Standard/pedigree-validator)
 - [Meeting Minutes](https://docs.google.com/document/d/12gw2BBIPVaWxUNQx2qiVVIt7W0zVOHON_2Ts9yc9fWY/edit?usp=sharing)
 
 ### *New* Computable Cohort Representation
-Exploring standardization around computable cohort representation. Two teams have been created: 1) MIACC (Minimum Information About Computable Cohort), aimed at describing sets of attributes required to describe a cohort consistently (eg. age, biological sex), and 2) PHENO, aimed at looking at existing phenotypic standards, and combining phenotypic info into cohort representation (e.g. OMOP FIHR, i2b2 etc.). This Subgroup is still in the landscape review/preliminary development phase, as a deliverable has not yet been formally proposed.
+Exploring standardization around computable cohort representation. Several areas of interest have been identified: 1) MIACC (Minimum Information About Computable Cohort), aimed at describing sets of attributes required to describe a cohort consistently (eg. age, biological sex), 2) PHENO, aimed at looking at existing phenotypic standards, and combining phenotypic info into cohort representation (e.g. OMOP FIHR, i2b2 etc.), and 3) Cohort Summary Statistics, looking at how to define and query counts. This Subgroup is still in the landscape review/preliminary development phase, as a deliverable has not yet been formally proposed.
+- [2022 Hackathon Master Doc](https://docs.google.com/document/d/1pwE1MtC-HM9BRZpKijXc1yaoPg8OIr88QdHpisRyaG0/edit?usp=sharing)
 - [Meeting Minutes](https://docs.google.com/document/d/188TCXf1Gsuaw4nnfkNlYiqLZM4jzO1iOmK6AORhpvCw/edit?usp=sharing)
 - [Summary from GA4GH Oct Connect 2021](https://docs.google.com/document/d/15Shtbo_6VNwr-Oo8ruRoeju12SOi79EhpLlzk4fu0jk/edit?usp=sharing)
 
 
 ## Work Stream Meetings
-- Full Work Stream Monthly Calls: Every other month (bi-monthly) on Wednesdays at 12pm PST/3pm EST/8pm BST/9pm CEST/5am (Friday) AEDT, etc.  (19:00 UTC).
-- Pedigree Technical Subgroup Calls: Bi-weekly/fortnightly Thursdays at 12pm PST/3pm EST/8pm BST/9pm CEST/5am (Friday) AEDT, etc.  (19:00 UTC).
-- Cohort Representation Subgroup Calls: Every other month, the Subgroup meets for a report back/retro. MIACC and PHENO meeting cadence is variable (typically 2 hours once a month).
-
+- Full Work Stream Monthly Calls: Every other month (bi-monthly) on Wednesdays at 12pm PST/3pm EST/8pm BST/9pm CEST/5am (Friday) AEST, etc.  (19:00 UTC).
+- Pedigree Technical Subgroup Calls: Bi-weekly/fortnightly Thursdays at 1pm PST/4pm EST/9pm BST/10pm CEST/6am (Friday) AEST, etc.  (20:00 UTC).
+- Cohort Representation Subgroup Calls: Currently ad hoc as topics are explored.
+- Phenopackets Subgroup Calls: Ad hoc.
 
 Please email [Lindsay Smith](mailto:lindsay.smith@ga4gh.org) for meeting invitations.
 
