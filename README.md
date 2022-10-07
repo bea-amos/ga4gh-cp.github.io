@@ -46,7 +46,7 @@ Pedigree data is currently represented in heterogeneous formats that frequently 
 - [Pedigree Validator](https://github.com/GA4GH-Pedigree-Standard/pedigree-validator)
 - [Meeting Minutes](https://docs.google.com/document/d/12gw2BBIPVaWxUNQx2qiVVIt7W0zVOHON_2Ts9yc9fWY/edit?usp=sharing)
 
-### *Study Group* Computable Cohort Representation
+### *Study Group*: Computable Cohort Representation
 Exploring standardization around computable cohort representation. Several areas of interest have been identified: 1) MIACC (Minimum Information About Computable Cohort), aimed at describing sets of attributes required to describe a cohort consistently (eg. age, biological sex), 2) PHENO, aimed at looking at existing phenotypic standards, and combining phenotypic info into cohort representation (e.g. OMOP FIHR, i2b2 etc.), and 3) Cohort Summary Statistics, looking at how to define and query counts. This Subgroup is still in the landscape review/preliminary development phase, as a deliverable has not yet been formally proposed.
 - [2022 Hackathon Master Doc](https://docs.google.com/document/d/1pwE1MtC-HM9BRZpKijXc1yaoPg8OIr88QdHpisRyaG0/edit?usp=sharing)
 - [Meeting Minutes](https://docs.google.com/document/d/188TCXf1Gsuaw4nnfkNlYiqLZM4jzO1iOmK6AORhpvCw/edit?usp=sharing)
