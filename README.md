@@ -7,7 +7,7 @@ permalink: index.html
 
 The "Clinical & Phenotypic Data Capture & Exchange" ([GA4GH::CP](http://ga4gh-cp.github.io)) Work Stream is one of the elements of the Global Alliance for Genomics and Health ([GA4GH](http://ga4gh.org)), aimed at developing standard formats for the exchange of genomic data for research and biomedical applications.  All members of this team must follow the [GA4GH Standards of Professional Conduct]( https://www.ga4gh.org/docs/GA4GH-Standards-for-Professional-Conduct_22-Jan-2018.pdf).
 
-This Work Stream supports the clinical adoption of genomics through establishing standard ontologies, best practices and information models to describe the clinical phenotype for use in genomic medicine and research, including the capture and exchange of information between electronic health records and research systems.
+This Work Stream supports the clinical adoption of genomics through establishing standard ontologies, best practices and information models to describe the clinical data for use in genomic medicine and research, including the capture and exchange of information between electronic health records and research systems.
 
 ### Work Stream Leads:
 
@@ -46,7 +46,7 @@ Pedigree data is currently represented in heterogeneous formats that frequently 
 - [Pedigree Validator](https://github.com/GA4GH-Pedigree-Standard/pedigree-validator)
 - [Meeting Minutes](https://docs.google.com/document/d/12gw2BBIPVaWxUNQx2qiVVIt7W0zVOHON_2Ts9yc9fWY/edit?usp=sharing)
 
-### *New* Computable Cohort Representation
+### *Study Group* Computable Cohort Representation
 Exploring standardization around computable cohort representation. Several areas of interest have been identified: 1) MIACC (Minimum Information About Computable Cohort), aimed at describing sets of attributes required to describe a cohort consistently (eg. age, biological sex), 2) PHENO, aimed at looking at existing phenotypic standards, and combining phenotypic info into cohort representation (e.g. OMOP FIHR, i2b2 etc.), and 3) Cohort Summary Statistics, looking at how to define and query counts. This Subgroup is still in the landscape review/preliminary development phase, as a deliverable has not yet been formally proposed.
 - [2022 Hackathon Master Doc](https://docs.google.com/document/d/1pwE1MtC-HM9BRZpKijXc1yaoPg8OIr88QdHpisRyaG0/edit?usp=sharing)
 - [Meeting Minutes](https://docs.google.com/document/d/188TCXf1Gsuaw4nnfkNlYiqLZM4jzO1iOmK6AORhpvCw/edit?usp=sharing)
@@ -62,6 +62,7 @@ Exploring standardization around computable cohort representation. Several areas
 Please email [Lindsay Smith](mailto:lindsay.smith@ga4gh.org) for meeting invitations.
 
 ## Relevant Links
+- [Draft 2022-2023 Roadmap Refresh](https://docs.google.com/document/d/1pdOSGct7k9Q2bNRFjk05aTcZQCzAcnEL6IoP9Yzuq3k/edit?usp=sharing)
 - [2020-2021 Roadmap](https://www.ga4gh.org/how-we-work/2020-2021-roadmap/2020-2021-roadmap-part-ii/clinpheno-2020-2021-roadmap/)
 - [2019 Roadmap](https://docs.google.com/document/d/1Xjtlm_G_zHJoHZkEELgNG8nSvxfeJczHaxBQ89ckxF4/edit)
 - [2021-2022 Meeting Minutes](https://docs.google.com/document/d/1gxRaduk2bv6_cCSiDVJomVtfMD2AOFeDVGELsShh21U/edit?usp=sharing)
