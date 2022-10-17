@@ -23,6 +23,7 @@ This workstream has several project areas, focusing on different aspects of the 
 
 ### [Phenopackets](https://github.com/phenopackets)
 While ontologies and terminologies provide the standard data concept definitions for capturing clinical information, an information model is required to successfully exchange that information between clinical information systems and with related information systems. A standardized structure for phenotypic data would catalyze integration from distributed sources such as authors, journals, data repositories and clinics when appropriately consented, and accelerate clinical utilization of this data to effect more precise health outcomes. The “Phenopackets” standard will provide information models with different levels of complexity to enable high level clinical phenotype information as well as deep clinical phenotype information to be exchanged.
+Note: This Subgroup currently does not have regular meetings, as the plan is to keep the standard stable in order to support implmentation.
 - [Github Space](https://github.com/phenopackets) + [Submit Comments](https://github.com/phenopackets/phenopacket-schema/issues)
 - [Documentation](https://phenopacket-schema.readthedocs.io/en/v2/index.html)
 - [Phenopackets Subgroup Minutes](https://docs.google.com/document/d/1BsNt_hegpmDcEK4RliDC3EJc9B19jdJyAj6rhrgaluo/edit?usp=sharing)
