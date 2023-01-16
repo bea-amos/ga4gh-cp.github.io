@@ -66,11 +66,13 @@ Please email [Lindsay Smith](mailto:lindsay.smith@ga4gh.org) for meeting invitat
 - [Draft 2022-2023 Roadmap Refresh](https://docs.google.com/document/d/1pdOSGct7k9Q2bNRFjk05aTcZQCzAcnEL6IoP9Yzuq3k/edit?usp=sharing)
 - [2020-2021 Roadmap](https://www.ga4gh.org/how-we-work/2020-2021-roadmap/2020-2021-roadmap-part-ii/clinpheno-2020-2021-roadmap/)
 - [2019 Roadmap](https://docs.google.com/document/d/1Xjtlm_G_zHJoHZkEELgNG8nSvxfeJczHaxBQ89ckxF4/edit)
+- [2023-2024 Meeting Minutes](https://docs.google.com/document/d/1-d7JBeOjITuKJCYUcyW31eWQIKll0M30Q6rrNmi6yNk/edit?usp=sharing)
 - [2021-2022 Meeting Minutes](https://docs.google.com/document/d/1gxRaduk2bv6_cCSiDVJomVtfMD2AOFeDVGELsShh21U/edit?usp=sharing)
 - [2019-2020 Meeting Minutes](https://docs.google.com/document/d/12gw2BBIPVaWxUNQx2qiVVIt7W0zVOHON_2Ts9yc9fWY/edit?usp=sharing)
 - [Slack](https://ga4gh.slack.com/) - Clin/Pheno channel is #clin_pheno_full
 
 ## Recent F2F Meetings
+- GA4GH Plenary in Barcelona, September 2022. See [here](https://broadinstitute.swoogo.com/ga4gh-10th-plenary) for meeting slides and recordings.
 - GA4GH Connect Montreal (Hybrid), April 2022. See [here](https://docs.google.com/document/d/1M4izAS5e_iYUzEvEn2WaNqOX__-HcA4uEZBUWdnufOU/edit?usp=sharing) for the meeting report.
 - GA4GH Virtual Connect, October 2021. See [here](https://docs.google.com/document/d/1tJg8vC24ypEV1z81mgQF9uG8L2CXcAEkr6BgNawPKxU/edit?usp=sharing) for the meeting report.
 - GA4GH Virtual Connect, March 2021. See [here](https://github.com/ga4gh-cp/pedigree/pull/6/files?short_path=8bff33e#diff-8bff33ecadb937a840bab8232dfc4bca0824e0216472f3abb702fadabbcd37e0) for the meeting report.
