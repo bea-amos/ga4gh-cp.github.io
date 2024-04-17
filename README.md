@@ -11,12 +11,12 @@ This Work Stream supports the clinical adoption of genomics through establishing
 
 ### Work Stream Leads:
 
+- [Moni Munoz-Torres](https://tislab.org/members/monica-munoz-torres.html)
 - [Melanie Courtot](https://mcourtot.github.io/)
-- [David Hansen](http://people.csiro.au/H/D/David-Hansen)
 
 #### Work Stream Manager:
 
-- [Lindsay Smith](https://ca.linkedin.com/in/lindsaysmithh)
+- [Beatrice Amos](https://www.linkedin.com/in/beatrice-amos-b6771a27)
 
 
 This workstream has several project areas, focusing on different aspects of the mission:
@@ -60,7 +60,7 @@ Exploring standardization around computable cohort representation. Several areas
 - Cohort Representation Subgroup Calls: Currently ad hoc as topics are explored.
 - Phenopackets Subgroup Calls: Ad hoc.
 
-Please email [Lindsay Smith](mailto:lindsay.smith@ga4gh.org) for meeting invitations.
+Please email [Beatrice Amos](mailto:beatrice.amos@ga4gh.org) for meeting invitations.
 
 ## Relevant Links
 - [Draft 2022-2023 Roadmap Refresh](https://docs.google.com/document/d/1pdOSGct7k9Q2bNRFjk05aTcZQCzAcnEL6IoP9Yzuq3k/edit?usp=sharing)
