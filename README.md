@@ -5,19 +5,18 @@ permalink: index.html
 
 # GA4GH Clinical & Phenotypic Data Capture & Exchange
 
-The "Clinical & Phenotypic Data Capture & Exchange" ([GA4GH::CP](http://ga4gh-cp.github.io)) Work Stream is one of the elements of the Global Alliance for Genomics and Health ([GA4GH](http://ga4gh.org)), aimed at developing standard formats for the exchange of genomic data for research and biomedical applications.  All members of this team must follow the [GA4GH Standards of Professional Conduct]( https://www.ga4gh.org/docs/GA4GH-Standards-for-Professional-Conduct_22-Jan-2018.pdf).
+The "Clinical & Phenotypic Data Capture & Exchange" ([GA4GH::CP](http://ga4gh-cp.github.io)) Work Stream is one of the elements of the Global Alliance for Genomics and Health ([GA4GH](http://ga4gh.org)), aimed at developing standard formats for the exchange of genomic data for research and biomedical applications.  All members of this team must follow the [GA4GH Standards of Professional Conduct](https://www.ga4gh.org/code-of-conduct/).
 
 This Work Stream supports the clinical adoption of genomics through establishing standard ontologies, best practices and information models to describe the clinical data for use in genomic medicine and research, including the capture and exchange of information between electronic health records and research systems.
 
 ### Work Stream Leads:
 
-- [Melanie Courtot](https://mcourtot.github.io/)
-- [David Hansen](http://people.csiro.au/H/D/David-Hansen)
+- [Mónica Muñoz-Torres](https://github.com/monicacecilia)
+- [Benjamin Berk](https://github.com/tripb)
 
 #### Work Stream Manager:
 
-- [Lindsay Smith](https://ca.linkedin.com/in/lindsaysmithh)
-
+- [Beatrice Amos](https://github.com/bea-amos)
 
 This workstream has several project areas, focusing on different aspects of the mission:
 
@@ -60,7 +59,7 @@ Exploring standardization around computable cohort representation. Several areas
 - Cohort Representation Subgroup Calls: Currently ad hoc as topics are explored.
 - Phenopackets Subgroup Calls: Ad hoc.
 
-Please email [Lindsay Smith](mailto:lindsay.smith@ga4gh.org) for meeting invitations.
+Please email [Beatrice Amos](mailto:beatrice.amos@ga4gh.org) for meeting invitations.
 
 ## Relevant Links
 - [Draft 2022-2023 Roadmap Refresh](https://docs.google.com/document/d/1pdOSGct7k9Q2bNRFjk05aTcZQCzAcnEL6IoP9Yzuq3k/edit?usp=sharing)
